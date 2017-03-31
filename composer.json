@@ -1,0 +1,10 @@
+{
+    "name": "administrator/zhangbingshuai-exe-composer",
+    "authors": [
+        {
+            "name": "ZhangBingShuai",
+            "email": "zhangbingshuai@d1ev.com"
+        }
+    ],
+    "require": {}
+}
