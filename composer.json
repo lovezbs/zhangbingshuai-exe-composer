@@ -6,5 +6,10 @@
             "email": "zhangbingshuai@d1ev.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+    "psr-4": {
+        "one": "src/one"
+    }
+}
 }

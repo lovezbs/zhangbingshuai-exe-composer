@@ -1,5 +1,5 @@
 <?php 
-
+name one;
 class zbs{
 
 	public static function show(){
